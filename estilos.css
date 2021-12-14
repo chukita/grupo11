@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#menu{
+    float: left; 
+    width: 100%;
+}
+
+#titulo{
+    float: left;
+    width:70%;
+}
+
+#navegacion{
+    float: left;
+    width:30%;
+}
+
+a{ text-decoration: none; color: black;}
+
+.fondo_verde{ background-color: #1abc9c;}
+
+h3{color:#000}
+
+#cuerpo h3{color: #ff0;}
